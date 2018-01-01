@@ -9,6 +9,16 @@
 4. npm run dev, 运行
 5. 访问 http://127.0.0.1:8080/
 
+运行截图：
+
+主页
+
+<img src='./assets/d1.png' style='max-width: 100%'>
+
+详情页
+
+<img src='./assets/d2.png' style='max-width: 100%'>
+
 
 
  

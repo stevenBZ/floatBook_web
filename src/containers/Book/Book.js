@@ -76,7 +76,7 @@ export default class Book extends React.Component {
                         </div>
                         <div className="detail-row clearfix">
                             <div className="detail-span">
-                                <span className="name">学校</span>￥{detailBook.school}
+                                <span className="name">学校</span>{detailBook.school}
                             </div>
                             <div className="detail-span">
                                 <span className="name">适用年级</span>{detailBook.role}
