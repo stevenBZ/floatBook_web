@@ -13,11 +13,11 @@
 
 主页
 
-<img src='./assets/d1.png' style='max-width: 100%'>
+<img src='./asset/d1.png' style='max-width: 100%'>
 
 详情页
 
-<img src='./assets/d2.png' style='max-width: 100%'>
+<img src='./asset/d2.png' style='max-width: 100%'>
 
 
 
