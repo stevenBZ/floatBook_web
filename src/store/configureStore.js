@@ -13,7 +13,6 @@ const middle = createMiddle();
 
 const createStoreWithMiddleware = applyMiddleware(
     thunkMiddleware,
-    // loggerMiddleware,
     ...middle
 )(createStore);
 
