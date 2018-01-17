@@ -1,6 +1,8 @@
 ###教材漂流网页端
 
 React+Redux学习项目，学习参考于 https://github.com/husterxsp/IT-part-time
+
+
 运行：
 
 1. 安装并运行mongodb
